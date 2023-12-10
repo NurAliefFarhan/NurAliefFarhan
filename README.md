@@ -1,9 +1,14 @@
+<div align="center">
+  <img src="img/Benner.jpg" alt="Banner" style="width:100%; height:auto;">
+</div>
+
+
 <!-- ![logo]() -->
 <h1 align="center">Hi 👋, I'm Nur Alief Farhan</h1>
 <h3 align="center">I'm a student from Wikrama Vocational School</h3>
 
 
-<img align="right" alt="Coding" width="250" height="400" src="cool.jpeg">
+<img align="right" alt="Coding" width="250" height="400" src="img/cool.jpeg">
 
 
 
